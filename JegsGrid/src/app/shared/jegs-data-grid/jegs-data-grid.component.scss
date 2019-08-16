@@ -1,0 +1,29 @@
+.example-container {
+    display: flex;
+  flex-direction: column;
+  max-height: 500px;
+  min-width: 300px;
+  }
+  
+table {    
+    //width: 800px;  
+    width: 100%;    
+  }
+  
+  th.mat-sort-header-sorted {
+    color: black;
+  }
+
+  .mat-header-row {
+    font-weight: bold;
+  }
+  
+  .mat-table-sticky {
+    border-top: 1px solid #e0e0e0;
+  }
+  md-icon{
+    font-family: 'Material Icons' !important;
+  }
+  .myCustomHeading{position:relative;padding-top:4px;}
+.myIcon{position:relative;}
+.mySpan{position:absolute;padding-top:2px;}
